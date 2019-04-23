@@ -1,0 +1,1 @@
+This script is used with the web comic dumbingofage(http://www.dumbingofage.com/) and it adds an em dash after commenters names and lets you collapse all replies on click.  Also changes the em dash to a + and let you re-expand comments.
