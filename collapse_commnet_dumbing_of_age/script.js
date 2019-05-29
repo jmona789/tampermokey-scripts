@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
-// @match        http://www.dumbingofage.com/*
+// @match        https://www.dumbingofage.com/*
 // @grant        none
 // @require https://code.jquery.com/jquery-2.1.4.min.js
 // ==/UserScript==
