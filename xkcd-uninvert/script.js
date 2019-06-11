@@ -6,6 +6,7 @@
 // @author       You
 // @match        https://xkcd.com/*
 // @grant        none
+// @require https://code.jquery.com/jquery-2.1.4.min.js
 // ==/UserScript==
 
 (function() {
